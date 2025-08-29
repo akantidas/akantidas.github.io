@@ -12,7 +12,7 @@ Hi, I’m Anorup! I’m a data enthusiast with a strong background in SQL, Excel
 
 * Data Visualization: Tableau
 
-* Other: Data Cleaning, Exploratory Data Analysis (EDA), Reporting
+* Other: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Reporting
 
 
 ## 📬 Contact
