@@ -18,6 +18,8 @@ Hi, I’m Anorup! I’m a data enthusiast with a strong background in SQL, Excel
 
 * **[Cyclistic Bike Sharing](https://github.com/akantidas/Cyclistic-Ride-Sharing)**
 
+* **[Bellabeat Case Study](https://github.com/akantidas/Bellabeat-Case-Study/tree/main)**
+
 
 ## 📬 Contact
 
