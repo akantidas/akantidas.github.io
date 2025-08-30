@@ -14,6 +14,10 @@ Hi, I’m Anorup! I’m a data enthusiast with a strong background in SQL, Excel
 
 * Other: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Reporting
 
+## Projects
+
+* **[Cyclistic Bike Sharing](https://github.com/akantidas/Cyclistic-Ride-Sharing)**
+
 
 ## 📬 Contact
 
