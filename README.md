@@ -20,6 +20,7 @@ Hi, I’m Anorup! I’m a data enthusiast with a strong background in SQL, Excel
 
 * **[Bellabeat Case Study](https://github.com/akantidas/Bellabeat-Case-Study/tree/main)**
 
+* **[Sanchaypatra Interest Calculator](https://akantidas.github.io/Sanchaypatra-Interest-Calculator/)
 
 ## 📬 Contact
 
